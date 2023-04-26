@@ -36,3 +36,4 @@
 - This is function will try to find the task with the highest priority and schedule it to run.
 - Called only once when the system executing tasks for the very first time
 # RTOS
+# RTOS
